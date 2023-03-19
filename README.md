@@ -8,7 +8,7 @@ A primeira API, carregar dados, como a quantidade de personagens, planetas e nav
 A seguda API, trará frases, citações dos filmes, conforme a gente clicar no botão, carrega mais uma frase.
 
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/StarWar-Devs/)
+[🔗 Clique aqui para acessar o site StarWar-Devs](https://marcos-franco.github.io/StarWar-Devs/)
 
 
 ## 🛠 Tecnologias:
